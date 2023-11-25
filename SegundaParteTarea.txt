@@ -1,0 +1,7 @@
+• Lenguajes de programación compatibles.
+Soporte extenso para una amplia variedad de lenguajes de programación, incluyendo pero no limitado a JavaScript, TypeScript, Python, Java, C#, C++, HTML, CSS, entre otros.
+
+• Facilidad de uso.
+Incluso los usuarios inexpertos pueden utilizar usar todas y cada una de las funciones sin ningún tipo de problema. La función de codificación fácil y el reconocimiento de errores de código también ayuda a los usuarios en la fabricación del código más eficiente y sin errores.
+
+• Depuración.
